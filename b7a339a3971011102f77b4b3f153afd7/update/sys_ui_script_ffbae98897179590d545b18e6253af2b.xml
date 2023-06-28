@@ -96,11 +96,14 @@ x_376096_pxp.sputil_interceptors = (function() {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-16 13:04:40</sys_created_on>
         <sys_id>ffbae98897179590d545b18e6253af2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_376096_pxp.sputil_interceptors</sys_name>
         <sys_package display_value="Portal Experience" source="x_376096_pxp">b7a339a3971011102f77b4b3f153afd7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Portal Experience">b7a339a3971011102f77b4b3f153afd7</sys_scope>
         <sys_update_name>sys_ui_script_ffbae98897179590d545b18e6253af2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 09:26:45</sys_updated_on>
         <ui_type>1</ui_type>
         <use_scoped_format>true</use_scoped_format>
     </sys_ui_script>
